@@ -1,0 +1,7 @@
+*.yaml
+/windows
+/ios
+/android
+/macos
+/linux
+/web
