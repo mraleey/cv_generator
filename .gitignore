@@ -5,3 +5,10 @@
 /macos
 /linux
 /web
+/build
+/.dart_tool
+.DS_Store
+.flutter-plugins-dependencies
+*.json
+.env
+lib/firebase_options.dart
